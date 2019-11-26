@@ -2,6 +2,8 @@
 
 @pedropbazzo
 
+![Ironhack Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUdex5NSMBacZ6mr11kZc7ml105ROh_futgZmDPa4vewuZEDYqcA&s)
+
 
 # spotify-clone-react
 Clone do spotify desenvolvido no Bootcamp da rocketseat
